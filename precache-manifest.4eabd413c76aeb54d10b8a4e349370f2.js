@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e71fba7678c3964e4e6da4670337362e",
+    "revision": "9634f134da4e74bda39f26c7fc91cdba",
     "url": "/brobro/index.html"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brobro/static/js/12.b1aa84ff.chunk.js"
   },
   {
-    "revision": "1ab94d969f90fdf42df1",
-    "url": "/brobro/static/js/13.da1caa76.chunk.js"
+    "revision": "e877238a0dd1ec18274b",
+    "url": "/brobro/static/js/13.6350b162.chunk.js"
   },
   {
     "revision": "c251be4e9842592093e0098333b51410",
-    "url": "/brobro/static/js/13.da1caa76.chunk.js.LICENSE.txt"
+    "url": "/brobro/static/js/13.6350b162.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71db2a8f9e84fb31f7b9",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brobro/static/js/main.23bef47c.chunk.js"
   },
   {
-    "revision": "4a229e110a9e200b5789",
-    "url": "/brobro/static/js/runtime-main.c69c68fe.js"
+    "revision": "85ea6a851887b044783d",
+    "url": "/brobro/static/js/runtime-main.01fce871.js"
   },
   {
     "revision": "9eeb4564f080dcf79d4efb350dd12e86",
