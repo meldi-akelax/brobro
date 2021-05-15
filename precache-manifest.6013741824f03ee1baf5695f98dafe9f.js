@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4a8e896be5b67771991f0e449c06346",
+    "revision": "70cd7708ac051b4fb469ceff63a96a5f",
     "url": "/brobro/index.html"
   },
   {
@@ -8,64 +8,64 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brobro/static/css/main.c11ce687.chunk.css"
   },
   {
-    "revision": "47432cbeea696e7a34df",
-    "url": "/brobro/static/js/0.51b25ccd.chunk.js"
+    "revision": "02d212c683d83a5dd992",
+    "url": "/brobro/static/js/0.ce586fd3.chunk.js"
   },
   {
-    "revision": "6565e92f9c4b208d8bb9",
-    "url": "/brobro/static/js/1.712e75ed.chunk.js"
+    "revision": "99bbc74edbecd975e111",
+    "url": "/brobro/static/js/1.8bc21fb1.chunk.js"
   },
   {
-    "revision": "16bc710396b65d365427",
-    "url": "/brobro/static/js/10.cb9d525f.chunk.js"
+    "revision": "96245dca311d73eb20de",
+    "url": "/brobro/static/js/10.636df409.chunk.js"
   },
   {
     "revision": "84b49930257e677144c107e65a7a0502",
-    "url": "/brobro/static/js/10.cb9d525f.chunk.js.LICENSE.txt"
+    "url": "/brobro/static/js/10.636df409.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ea35b927830a711cd03",
-    "url": "/brobro/static/js/11.c0140eb3.chunk.js"
+    "revision": "0efd908e0cf11d9cd63d",
+    "url": "/brobro/static/js/11.ca7bda19.chunk.js"
   },
   {
-    "revision": "8985f6c98b4b67111bba",
-    "url": "/brobro/static/js/12.b1aa84ff.chunk.js"
+    "revision": "cfdea49e8ef8ddeb9ed2",
+    "url": "/brobro/static/js/12.1805352b.chunk.js"
   },
   {
-    "revision": "e877238a0dd1ec18274b",
-    "url": "/brobro/static/js/13.6350b162.chunk.js"
+    "revision": "169aa6f377fc7d7ceea9",
+    "url": "/brobro/static/js/13.ad3b8c66.chunk.js"
   },
   {
     "revision": "c251be4e9842592093e0098333b51410",
-    "url": "/brobro/static/js/13.6350b162.chunk.js.LICENSE.txt"
+    "url": "/brobro/static/js/13.ad3b8c66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71db2a8f9e84fb31f7b9",
-    "url": "/brobro/static/js/14.60828f8a.chunk.js"
+    "revision": "2be61d7d220a88c3e86e",
+    "url": "/brobro/static/js/14.702b262b.chunk.js"
   },
   {
-    "revision": "c424ed45b46dac5be39f",
-    "url": "/brobro/static/js/15.91a33b76.chunk.js"
+    "revision": "98cb6328501c28bda5db",
+    "url": "/brobro/static/js/15.6ca4ad2a.chunk.js"
   },
   {
-    "revision": "fce1886ca363090dc4ce",
-    "url": "/brobro/static/js/16.b5b51324.chunk.js"
+    "revision": "9b07f7c42f28ce520f60",
+    "url": "/brobro/static/js/16.1fba01fc.chunk.js"
   },
   {
-    "revision": "3e21d9aa6cdd8b706a73",
-    "url": "/brobro/static/js/2.9794c641.chunk.js"
+    "revision": "073084876c733c0fb811",
+    "url": "/brobro/static/js/2.8782fce7.chunk.js"
   },
   {
-    "revision": "8238d00047ccc2310659",
-    "url": "/brobro/static/js/3.35ef32f4.chunk.js"
+    "revision": "d2bbcbefaf64ce4fc512",
+    "url": "/brobro/static/js/3.28e8717b.chunk.js"
   },
   {
-    "revision": "4f46b612ddace6b15c52",
-    "url": "/brobro/static/js/6.cee464f8.chunk.js"
+    "revision": "10b56b22ac113dd258e5",
+    "url": "/brobro/static/js/6.01f77eeb.chunk.js"
   },
   {
     "revision": "6667dc153edcbe95e8723d6c8f6541e2",
-    "url": "/brobro/static/js/6.cee464f8.chunk.js.LICENSE.txt"
+    "url": "/brobro/static/js/6.01f77eeb.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4c47931fdf0730fe803f",
@@ -76,20 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brobro/static/js/7.9f4f08ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80e8653147142936a34e",
-    "url": "/brobro/static/js/8.dbf03fc7.chunk.js"
+    "revision": "77b01231d9c7d00c5413",
+    "url": "/brobro/static/js/8.f57a1241.chunk.js"
   },
   {
-    "revision": "bab81631cc18ac7c96af",
-    "url": "/brobro/static/js/9.23b257a1.chunk.js"
+    "revision": "a9c20eef4bbd5dc13406",
+    "url": "/brobro/static/js/9.9c6e9024.chunk.js"
   },
   {
     "revision": "5dfa658c1401684faf03",
     "url": "/brobro/static/js/main.23bef47c.chunk.js"
   },
   {
-    "revision": "85ea6a851887b044783d",
-    "url": "/brobro/static/js/runtime-main.01fce871.js"
+    "revision": "4428cc43acd1e7d00d67",
+    "url": "/brobro/static/js/runtime-main.89d86b00.js"
   },
   {
     "revision": "9eeb4564f080dcf79d4efb350dd12e86",
