@@ -11,8 +11,8 @@
     "main.css": "/brobro/static/css/main.c11ce687.chunk.css",
     "main.js": "/brobro/static/js/main.23bef47c.chunk.js",
     "main.js.map": "/brobro/static/js/main.23bef47c.chunk.js.map",
-    "runtime-main.js": "/brobro/static/js/runtime-main.89d86b00.js",
-    "runtime-main.js.map": "/brobro/static/js/runtime-main.89d86b00.js.map",
+    "runtime-main.js": "/brobro/static/js/runtime-main.3fb14cf4.js",
+    "runtime-main.js.map": "/brobro/static/js/runtime-main.3fb14cf4.js.map",
     "static/js/6.01f77eeb.chunk.js": "/brobro/static/js/6.01f77eeb.chunk.js",
     "static/js/6.01f77eeb.chunk.js.map": "/brobro/static/js/6.01f77eeb.chunk.js.map",
     "static/js/7.9f4f08ae.chunk.js": "/brobro/static/js/7.9f4f08ae.chunk.js",
@@ -33,10 +33,10 @@
     "static/js/14.702b262b.chunk.js.map": "/brobro/static/js/14.702b262b.chunk.js.map",
     "static/js/15.6ca4ad2a.chunk.js": "/brobro/static/js/15.6ca4ad2a.chunk.js",
     "static/js/15.6ca4ad2a.chunk.js.map": "/brobro/static/js/15.6ca4ad2a.chunk.js.map",
-    "static/js/16.1fba01fc.chunk.js": "/brobro/static/js/16.1fba01fc.chunk.js",
-    "static/js/16.1fba01fc.chunk.js.map": "/brobro/static/js/16.1fba01fc.chunk.js.map",
+    "static/js/16.8806c3b5.chunk.js": "/brobro/static/js/16.8806c3b5.chunk.js",
+    "static/js/16.8806c3b5.chunk.js.map": "/brobro/static/js/16.8806c3b5.chunk.js.map",
     "index.html": "/brobro/index.html",
-    "precache-manifest.6013741824f03ee1baf5695f98dafe9f.js": "/brobro/precache-manifest.6013741824f03ee1baf5695f98dafe9f.js",
+    "precache-manifest.afabccad403a48ef7139beb58dcc4aa3.js": "/brobro/precache-manifest.afabccad403a48ef7139beb58dcc4aa3.js",
     "service-worker.js": "/brobro/service-worker.js",
     "static/css/main.c11ce687.chunk.css.map": "/brobro/static/css/main.c11ce687.chunk.css.map",
     "static/js/10.636df409.chunk.js.LICENSE.txt": "/brobro/static/js/10.636df409.chunk.js.LICENSE.txt",
@@ -68,7 +68,7 @@
     "static/media/yuvraj-singh-0L2Y19nsYmY-unsplash.jpg": "/brobro/static/media/yuvraj-singh-0L2Y19nsYmY-unsplash.3b6730ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89d86b00.js",
+    "static/js/runtime-main.3fb14cf4.js",
     "static/js/7.9f4f08ae.chunk.js",
     "static/css/main.c11ce687.chunk.css",
     "static/js/main.23bef47c.chunk.js"
